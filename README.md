@@ -18,10 +18,11 @@ Each class has a description/ a comment about the classes and the codes.
  </br>
              **ReverseArrayChallenge** class is for the first challenge
              </br>
-             **DescendingArrayChallenge** class is for the second challenge
+               **MinElementChallenge** class is for the second challenge
              </br>
-             **MinElementChallenge** class is for the third challenge
+             **DescendingArrayChallenge** class is for the third challenge
              </br>
+           
 
 ### Clone it and Practice!
 
